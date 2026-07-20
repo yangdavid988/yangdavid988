@@ -53,36 +53,18 @@
   <img src="https://img.shields.io/github/last-commit/yangdavid988/yangdavid988?style=for-the-badge&logo=github&logoColor=white&label=Last%20Update&color=00D2FF" alt="Last Update" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/yangdavid988">
+    <img src="https://img.shields.io/badge/🌟_Star_My_Repos_🌟-FF6B6B?style=for-the-badge" alt="Star My Repos" />
+  </a>
+</p>
+
 <!-- ===== 分隔线 ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9AFF,100:00D2FF&height=2&section=header&width=100%" alt="divider" />
 </p>
 
-## 🔍 Topics & Keywords
-
-<p align="center">
-  <a href="https://github.com/topics/embedded"><img src="https://img.shields.io/badge/Embedded-555555?style=flat-square&logo=github" alt="Embedded" /></a>
-  <a href="https://github.com/topics/iot"><img src="https://img.shields.io/badge/IoT-555555?style=flat-square&logo=github" alt="IoT" /></a>
-  <a href="https://github.com/topics/freertos"><img src="https://img.shields.io/badge/FreeRTOS-555555?style=flat-square&logo=github" alt="FreeRTOS" /></a>
-  <a href="https://github.com/topics/rtos"><img src="https://img.shields.io/badge/RTOS-555555?style=flat-square&logo=github" alt="RTOS" /></a>
-  <a href="https://github.com/topics/lvgl"><img src="https://img.shields.io/badge/LVGL-555555?style=flat-square&logo=github" alt="LVGL" /></a>
-  <a href="https://github.com/topics/zephyr"><img src="https://img.shields.io/badge/Zephyr-555555?style=flat-square&logo=github" alt="Zephyr" /></a>
-  <a href="https://github.com/topics/ameba"><img src="https://img.shields.io/badge/Ameba-555555?style=flat-square&logo=github" alt="Ameba" /></a>
-  <a href="https://github.com/topics/wifi"><img src="https://img.shields.io/badge/WiFi-555555?style=flat-square&logo=github" alt="WiFi" /></a>
-  <a href="https://github.com/topics/bluetooth"><img src="https://img.shields.io/badge/BT-555555?style=flat-square&logo=github" alt="BT" /></a>
-  <a href="https://github.com/topics/mqtt"><img src="https://img.shields.io/badge/MQTT-555555?style=flat-square&logo=github" alt="MQTT" /></a>
-  <a href="https://github.com/topics/c"><img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=github" alt="C" /></a>
-  <a href="https://github.com/topics/cpp"><img src="https://img.shields.io/badge/C++-555555?style=flat-square&logo=github" alt="C++" /></a>
-  <a href="https://github.com/topics/python"><img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=github" alt="Python" /></a>
-  <a href="https://github.com/topics/arm"><img src="https://img.shields.io/badge/Arm_Cortex-555555?style=flat-square&logo=github" alt="Arm Cortex" /></a>
-  <a href="https://github.com/topics/realtek"><img src="https://img.shields.io/badge/Realtek-555555?style=flat-square&logo=github" alt="Realtek" /></a>
-</p>
-
-<p align="center">
-  <i>Click any keyword to explore related projects on GitHub</i>
-</p>
-
-## 🛠️ Tech Stack & Daily Tools
+<h2 align="center">🛠️ Tech Stack & Daily Tools</h2>
 
 <div align="center">
 
@@ -140,32 +122,40 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9AFF,100:00D2FF&height=2&section=header&width=100%" alt="divider" />
 </p>
 
-## 🧪 My Side Projects
+<h2 align="center">🧪 My Side Projects</h2>
 
-> 🔹 **"Small but complete"** — even a simple LED blink demo gets a proper README.  
-> 🔹 **"GUI enthusiast"** — love building interactive UIs with LVGL on embedded screens.  
-> 🔹 **"Open source first"** — all hobby projects default to MIT license.  
-> 🔹 **"FreeRTOS + LVGL + Zephyr"** — exploring the trifecta of modern embedded development.
+<div align="center">
 
-**What I'm working on / planning** ✨
-- 🔸 Ameba-based environmental data collector using **FreeRTOS** + MQTT
-- 🔸 A **FREE_RTOS** task management demo with visualization
-- 🔸 LVGL dashboard template with circular progress bars and animations
-- 🔸 Zephyr RTOS driver porting practice
-- 🔸 Demo GUI for generic dev board to practice LVGL object management
+🔹 **"Small but complete"** — even a simple LED blink demo gets a proper README.  
+🔹 **"GUI enthusiast"** — love building interactive UIs with LVGL on embedded screens.  
+🔹 **"Open source first"** — all hobby projects default to MIT license.  
+🔹 **"FreeRTOS + LVGL + Zephyr"** — exploring the trifecta of modern embedded development.
 
-👉 **Feel free to open issues or PRs on any of my projects with suggestions!**
+<br/>
+
+<b>What I'm working on / planning</b> ✨<br/>
+🔸 Ameba-based environmental data collector using <b>FreeRTOS</b> + MQTT<br/>
+🔸 A <b>FREE_RTOS</b> task management demo with visualization<br/>
+🔸 LVGL dashboard template with circular progress bars and animations<br/>
+🔸 Zephyr RTOS driver porting practice<br/>
+🔸 Demo GUI for generic dev board to practice LVGL object management
+
+<br/>
+
+👉 <b>Feel free to open issues or PRs on any of my projects with suggestions!</b>
+
+</div>
 
 <!-- ===== 分隔线 ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9AFF,100:00D2FF&height=2&section=header&width=100%" alt="divider" />
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<table>
+<table align="center">
   <tr>
     <td>
       <picture>
@@ -191,7 +181,7 @@
 </div>
 
 <!-- ===== GitHub 活动图 + 贡献蛇 (最大曝光 + 视觉冲击) ===== -->
-### 🔥 Contribution Activity
+<h3 align="center">🔥 Contribution Activity</h3>
 
 <details>
   <summary>
@@ -209,18 +199,49 @@
 
 <br/>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yangdavid988/yangdavid988/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yangdavid988/yangdavid988/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/yangdavid988/yangdavid988/output/github-contribution-grid-snake.svg" />
 </picture>
+</p>
 
 <!-- ===== 分隔线 ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9AFF,100:00D2FF&height=2&section=header&width=100%" alt="divider" />
 </p>
 
-## 📫 Connect with Me
+<h2 align="center">🔍 Topics & Keywords</h2>
+
+<p align="center">
+  <a href="https://github.com/topics/embedded"><img src="https://img.shields.io/badge/Embedded-555555?style=flat-square&logo=github" alt="Embedded" /></a>
+  <a href="https://github.com/topics/iot"><img src="https://img.shields.io/badge/IoT-555555?style=flat-square&logo=github" alt="IoT" /></a>
+  <a href="https://github.com/topics/freertos"><img src="https://img.shields.io/badge/FreeRTOS-555555?style=flat-square&logo=github" alt="FreeRTOS" /></a>
+  <a href="https://github.com/topics/rtos"><img src="https://img.shields.io/badge/RTOS-555555?style=flat-square&logo=github" alt="RTOS" /></a>
+  <a href="https://github.com/topics/lvgl"><img src="https://img.shields.io/badge/LVGL-555555?style=flat-square&logo=github" alt="LVGL" /></a>
+  <a href="https://github.com/topics/zephyr"><img src="https://img.shields.io/badge/Zephyr-555555?style=flat-square&logo=github" alt="Zephyr" /></a>
+  <a href="https://github.com/Ameba-AIoT"><img src="https://img.shields.io/badge/Ameba--IoT-555555?style=flat-square&logo=github" alt="Ameba-IoT" /></a>
+  <a href="https://github.com/topics/wifi"><img src="https://img.shields.io/badge/WiFi-555555?style=flat-square&logo=github" alt="WiFi" /></a>
+  <a href="https://github.com/topics/bluetooth"><img src="https://img.shields.io/badge/BT-555555?style=flat-square&logo=github" alt="BT" /></a>
+  <a href="https://github.com/topics/mqtt"><img src="https://img.shields.io/badge/MQTT-555555?style=flat-square&logo=github" alt="MQTT" /></a>
+  <a href="https://github.com/topics/c"><img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=github" alt="C" /></a>
+  <a href="https://github.com/topics/cpp"><img src="https://img.shields.io/badge/C++-555555?style=flat-square&logo=github" alt="C++" /></a>
+  <a href="https://github.com/topics/python"><img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=github" alt="Python" /></a>
+  <a href="https://github.com/topics/arm"><img src="https://img.shields.io/badge/Arm_Cortex-555555?style=flat-square&logo=github" alt="Arm Cortex" /></a>
+  <a href="https://github.com/topics/realtek"><img src="https://img.shields.io/badge/Realtek-555555?style=flat-square&logo=github" alt="Realtek" /></a>
+</p>
+
+<p align="center">
+  <i>Click any keyword to explore related projects on GitHub</i>
+</p>
+
+<!-- ===== 分隔线 ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9AFF,100:00D2FF&height=2&section=header&width=100%" alt="divider" />
+</p>
+
+<h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:yangdavid988@gmail.com">
