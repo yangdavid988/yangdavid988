@@ -58,6 +58,30 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9AFF,100:00D2FF&height=2&section=header&width=100%" alt="divider" />
 </p>
 
+## 🔍 Topics & Keywords
+
+<p align="center">
+  <a href="https://github.com/topics/embedded"><img src="https://img.shields.io/badge/Embedded-555555?style=flat-square&logo=github" alt="Embedded" /></a>
+  <a href="https://github.com/topics/iot"><img src="https://img.shields.io/badge/IoT-555555?style=flat-square&logo=github" alt="IoT" /></a>
+  <a href="https://github.com/topics/freertos"><img src="https://img.shields.io/badge/FreeRTOS-555555?style=flat-square&logo=github" alt="FreeRTOS" /></a>
+  <a href="https://github.com/topics/rtos"><img src="https://img.shields.io/badge/RTOS-555555?style=flat-square&logo=github" alt="RTOS" /></a>
+  <a href="https://github.com/topics/lvgl"><img src="https://img.shields.io/badge/LVGL-555555?style=flat-square&logo=github" alt="LVGL" /></a>
+  <a href="https://github.com/topics/zephyr"><img src="https://img.shields.io/badge/Zephyr-555555?style=flat-square&logo=github" alt="Zephyr" /></a>
+  <a href="https://github.com/topics/ameba"><img src="https://img.shields.io/badge/Ameba-555555?style=flat-square&logo=github" alt="Ameba" /></a>
+  <a href="https://github.com/topics/wifi"><img src="https://img.shields.io/badge/WiFi-555555?style=flat-square&logo=github" alt="WiFi" /></a>
+  <a href="https://github.com/topics/bluetooth"><img src="https://img.shields.io/badge/BT-555555?style=flat-square&logo=github" alt="BT" /></a>
+  <a href="https://github.com/topics/mqtt"><img src="https://img.shields.io/badge/MQTT-555555?style=flat-square&logo=github" alt="MQTT" /></a>
+  <a href="https://github.com/topics/c"><img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=github" alt="C" /></a>
+  <a href="https://github.com/topics/cpp"><img src="https://img.shields.io/badge/C++-555555?style=flat-square&logo=github" alt="C++" /></a>
+  <a href="https://github.com/topics/python"><img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=github" alt="Python" /></a>
+  <a href="https://github.com/topics/arm"><img src="https://img.shields.io/badge/Arm_Cortex-555555?style=flat-square&logo=github" alt="Arm Cortex" /></a>
+  <a href="https://github.com/topics/realtek"><img src="https://img.shields.io/badge/Realtek-555555?style=flat-square&logo=github" alt="Realtek" /></a>
+</p>
+
+<p align="center">
+  <i>Click any keyword to explore related projects on GitHub</i>
+</p>
+
 ## 🛠️ Tech Stack & Daily Tools
 
 <div align="center">
